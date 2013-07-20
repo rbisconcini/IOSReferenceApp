@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "KalturaClient.h"
 
-#define DEFAULT_SERVICE_URL     @"http://www.kaltura.com"
+#define DEFAULT_SERVICE_URL     @"http://dam.westream.com"
 
 @class KalturaClient;
 
